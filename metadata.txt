@@ -7,7 +7,7 @@ name= AngulosInternos
 qgisMinimumVersion=3.10
 description=Topografia com QGIS
 version=1.0
-author=profCazaroli
+author=profCazaroliXXZ
 email=prof.cazaroli@geoone.com.br
 
 about=Ângulos Internos.
